@@ -1,0 +1,8 @@
+{
+  "name": "MoodSync AI",
+  "description": "An AI-powered mood adaptive interface that dynamically syncs the website theme, colors, and content with your current emotion using real-time facial recognition.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
